@@ -1,4 +1,4 @@
 # repo-form
 Formulario.
 
-https://ivancardozo11.github.io/repo-form/
+https://ivancardozo11.github.io/repo-form/formpage.html
